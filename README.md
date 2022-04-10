@@ -1,6 +1,8 @@
-# Timeline Creator
-An application allowing the creation of automatically generated visual timelines from a series of events. This software was created using the Java Swing GUI library. 
+# Redstar Timeline Creator
+An application allowing the creation of automatically generated visual timelines from a series of events. This software was created using the Java Swing toolkit. The aim of this software is to provide the ability to easily create such visual timelines at no cost or restriction to the end user.
 
+
+# License and Copyright
 Copyright (C) 2022 Xavier Mercerweiss
 
 This program is free software: you can redistribute it and/or modify
